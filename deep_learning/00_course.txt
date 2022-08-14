@@ -10,7 +10,7 @@
 09 : Proj. Structuring ML Strategy (2)                   : ✓
 10 : CNNs Foundations                                    : ✓
 11 : CNNs Deep Convolutional Models                      : ✓
-12 : CNNs Object Detection                               :
+12 : CNNs Object Detection                               : ✓
 13 : CNNs Special Applications                           :
 14 : Sequence Models Recurrent Neural Networks           :
 15 : Sequence Models NLP & Word Embeddings               :
@@ -24,7 +24,7 @@
 03 : Full-Cycle Deep Learning Projects                   : ✓
 04 : Adversarial Attacks / GANs                          : ✓
 05 : AI + Healthcare                                     : ✓
-06 : Deep Learning Project Strategy                      :
+06 : Deep Learning Project Strategy                      : ✓
 07 : Interpretability of Neural Network                  :
 08 : Career Advice / Reading Research Papers             :
 09 : Deep Reinforcement Learning                         :
@@ -32,13 +32,13 @@
 -- : --------------------------------------------------- :
 
 -- : INTRO TO DEEP LEARNING - MIT (6.S191) ------------- : PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-01 : Introduction to Deep Learning              ( 2022 ) :
-02 : Recurrent Neural Networks and Transformers ( 2022 ) :
-03 : Convolutional Neural Networks              ( 2022 ) :
-04 : Deep Generative Modeling                   ( 2022 ) :
+01 : Introduction to Deep Learning              ( 2022 ) : ✓
+02 : Recurrent Neural Networks and Transformers ( 2022 ) : ✓
+03 : Convolutional Neural Networks              ( 2022 ) : ✓
+04 : Deep Generative Modeling                   ( 2022 ) : ✓
 05 : Reinforcement Learning                     ( 2022 ) : ✓
-06 : Deep Learning New Frontiers                ( 2022 ) :
-07 : LiDAR for Autonomous Driving               ( 2022 ) :
+06 : Deep Learning New Frontiers                ( 2022 ) : ✓
+07 : LiDAR for Autonomous Driving               ( 2022 ) : ✓
 08 : Automatic Speech Recognition               ( 2022 ) :
 09 : AI for Science                             ( 2022 ) :
 10 : Uncertainty in Deep Learning               ( 2022 ) :
