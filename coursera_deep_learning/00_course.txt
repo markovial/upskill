@@ -1,0 +1,53 @@
+-- : DEEP LEARNING ------------------------------------- : coursera.org/specializations/deep-learning
+01 : Neural Nets Introduction to Deep Learning           : ✓
+02 : Neural Nets Neural Networks Basics                  : ✓
+03 : Neural Nets Shallow Neural Networks                 : ✓
+04 : Neural Nets Deep Neural Networks                    : ✓
+05 : Parameter Tuning Practical Aspects                  : ✓
+06 : Parameter Tuning Optimization Algorithms            : ✓
+07 : Parameter Tuning Hyperparameter Tuning              : ✓
+08 : Proj. Structuring ML Strategy (1)                   : ✓
+09 : Proj. Structuring ML Strategy (2)                   : ✓
+10 : CNNs Foundations                                    : ✓
+11 : CNNs Deep Convolutional Models                      : ✓
+12 : CNNs Object Detection                               : ✓
+13 : CNNs Special Applications                           :
+14 : Sequence Models Recurrent Neural Networks           :
+15 : Sequence Models NLP & Word Embeddings               :
+16 : Sequence Models Models & Attention Mechanism        :
+17 : Sequence Models Transformer Network                 :
+-- : --------------------------------------------------- :
+
+-- : DEEP LEARNING - STANFORD (2018) ------------------- : PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+01 : Class Introduction & Logistics, Andrew Ng           : ✓
+02 : Deep Learning Intuition                             : ✓
+03 : Full-Cycle Deep Learning Projects                   : ✓
+04 : Adversarial Attacks / GANs                          : ✓
+05 : AI + Healthcare                                     : ✓
+06 : Deep Learning Project Strategy                      : ✓
+07 : Interpretability of Neural Network                  :
+08 : Career Advice / Reading Research Papers             :
+09 : Deep Reinforcement Learning                         :
+10 : Chatbots / Closing Remarks                          :
+-- : --------------------------------------------------- :
+
+-- : INTRO TO DEEP LEARNING - MIT (6.S191) ------------- : PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+01 : Introduction to Deep Learning              ( 2022 ) : ✓
+02 : Recurrent Neural Networks and Transformers ( 2022 ) : ✓
+03 : Convolutional Neural Networks              ( 2022 ) : ✓
+04 : Deep Generative Modeling                   ( 2022 ) : ✓
+05 : Reinforcement Learning                     ( 2022 ) : ✓
+06 : Deep Learning New Frontiers                ( 2022 ) : ✓
+07 : LiDAR for Autonomous Driving               ( 2022 ) : ✓
+08 : Automatic Speech Recognition               ( 2022 ) :
+09 : AI for Science                             ( 2022 ) :
+10 : Uncertainty in Deep Learning               ( 2022 ) :
+17 : Evidential Deep Learning and Uncertainty   ( 2021 ) :
+18 : AI Bias and Fairness                       ( 2021 ) :
+19 : Deep CPCFG for Information Extraction      ( 2021 ) :
+20 : Taming Dataset Bias via Domain Adaptation  ( 2021 ) :
+21 : Towards AI for 3D Content Creation         ( 2021 ) :
+22 : AI in Healthcare                           ( 2021 ) :
+23 : Biologically Inspired Neural Networks IBM  ( 2019 ) :
+-- : --------------------------------------------------- :
+

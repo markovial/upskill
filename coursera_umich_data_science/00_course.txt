@@ -1,0 +1,23 @@
+-- : APPLIED DATA SCIENCE WITH PYTHON  ----------------- : coursera.org/specializations/data-science-python
+01 : Fundamentals of Data Manipulation with Python       : ✓
+02 : Basic Data Processing with Pandas                   : ✓
+03 : More Data Processing with Pandas                    : ✓
+04 : Answering Questions with Messy Data                 : ✓
+05 : Principles of Information Visualization             :
+06 : Basic Charting                                      :
+07 : Charting Fundamentals                               :
+08 : Applied Visualizations                              :
+09 : Intro to SciKit Learn                               :
+10 : Supervised Machine Learning - Part 1                :
+11 : Evaluation                                          :
+12 : Supervised Machine Learning - Part 2                :
+13 : Working with Text in Python                         :
+14 : Basic Natural Language Processing                   :
+15 : Classification of Text                              :
+16 : Topic Modeling                                      :
+17 : Why Study Networks and Basics on NetworkX           :
+18 : Network Connectivity                                :
+19 : Influence Measures and Network Centralization       :
+20 : Network Evolution                                   :
+-- : --------------------------------------------------- :
+
